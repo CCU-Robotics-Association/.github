@@ -104,7 +104,7 @@ CRA 是面向长春大学计算机技术、电子信息技术与机器人竞赛�
 
 <div align="center">
 
-### ROBOT · CODE · CREATE
+### CCU · ROBOTICS · ASSOCIATION
 
 <sub>CCU Robotics Association</sub>
 
