@@ -267,7 +267,7 @@ Issue 可用于 Bug 报告、功能建议、开发任务、文档问题和项目
 
 ## <img src="./assets/icons/book-open.svg" width="22" height="22" alt=""> Documentation | README 与文档
 
-协会项目原则上都应具备 `README.md`，规范参考 [CRA README 编写 Prompt](https://github.com/CCU-Robotics-Association/CRA-Skill-Prompt/blob/main/README_STYLE_PROMPT.md)
+协会项目原则上都应具备 `README.md`，规范参考 [CRA README 编写 Prompt](https://github.com/CCU-Robotics-Association/CRA-Skill-Prompt/blob/main/prompts/readme/README_STYLE_PROMPT.md)
 
 <a name="structure"></a>
 
