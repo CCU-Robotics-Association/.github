@@ -14,39 +14,32 @@
 
 CCU 机器人协会 · 2026 —— Future
 
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open-Source-ffffff?style=flat-square&labelColor=000000)
 [![Organization](https://img.shields.io/badge/CCU-Robotics_Association-4C1D95?style=flat-square&labelColor=181717&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNTAxIiBoZWlnaHQ9IjQ3MCIgdmlld0JveD0iMCAwIDUwMSA0NzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCiAgPHBhdGggZD0iTSA4OSA5NSBMIDAgNDY5IEwgNDQyIDQ2OSBMIDQ1MCA0MTQgTCAzMTkgMjMwIEwgMjQxIDIzMCBMIDM2OCA0MTEgTCA3MyA0MTAgTCAxNDkgOTcgWiBNIDExMSAxIEwgOTkgNTMgTCA0NDQgNTMgTCA0NDQgNjYgTCA0MjggMTYxIEwgNDc3IDIyNSBMIDUwMCAwIFoiIGZpbGw9IndoaXRlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4KPC9zdmc%2BCg%3D%3D)](https://github.com/CCU-Robotics-Association)
-![Area](https://img.shields.io/badge/Area-Robotics-E67E22?style=flat-square)
+![MIT License](https://img.shields.io/badge/MIT-License-000000?style=flat-square&labelColor=ffffff)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2F4C6C?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjExMS4xNjEzNTYiIGhlaWdodD0iMTM0LjY2ODEwNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTExLjE2MTM1NiAxMzQuNjY4MTA2Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhckdyYWRpZW50Mjc5NSI%2BPHN0b3Agc3R5bGU9InN0b3AtY29sb3I6I2I4YjhiODtzdG9wLW9wYWNpdHk6MC40OTgwMzkyMjsiIG9mZnNldD0iMCIgaWQ9InN0b3AyNzk3IiAvPjxzdG9wIHN0eWxlPSJzdG9wLWNvbG9yOiM3ZjdmN2Y7c3RvcC1vcGFjaXR5OjA7IiBvZmZzZXQ9IjEiIGlkPSJzdG9wMjc5OSIgLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyR3JhZGllbnQ0NjcxIj48c3RvcCBzdHlsZT0ic3RvcC1jb2xvcjojZmZkNDNiO3N0b3Atb3BhY2l0eToxOyIgb2Zmc2V0PSIwIiBpZD0ic3RvcDQ2NzMiIC8%2BPHN0b3Agc3R5bGU9InN0b3AtY29sb3I6I2ZmZTg3MztzdG9wLW9wYWNpdHk6MSIgb2Zmc2V0PSIxIiBpZD0ic3RvcDQ2NzUiIC8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhckdyYWRpZW50NDY4OSI%2BPHN0b3Agc3R5bGU9InN0b3AtY29sb3I6IzVhOWZkNDtzdG9wLW9wYWNpdHk6MTsiIG9mZnNldD0iMCIgaWQ9InN0b3A0NjkxIiAvPjxzdG9wIHN0eWxlPSJzdG9wLWNvbG9yOiMzMDY5OTg7c3RvcC1vcGFjaXR5OjE7IiBvZmZzZXQ9IjEiIGlkPSJzdG9wNDY5MyIgLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0NjcxIiBpZD0ibGluZWFyR3JhZGllbnQxNDc1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgwLjU2MjU0MSwwLDAsMC41Njc5NzIsLTE0Ljk5MTEyLC0xMS43MDIzNzEpIiB4MT0iMTUwLjk2MTExIiB5MT0iMTkyLjM1MTc2IiB4Mj0iMTEyLjAzMTQ0IiB5Mj0iMTM3LjI3Mjk5IiAvPjxsaW5lYXJHcmFkaWVudCB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0Njg5IiBpZD0ibGluZWFyR3JhZGllbnQxNDc4IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgwLjU2MjU0MSwwLDAsMC41Njc5NzIsLTE0Ljk5MTEyLC0xMS43MDIzNzEpIiB4MT0iMjYuNjQ4OTM3IiB5MT0iMjAuNjAzNzgxIiB4Mj0iMTM1LjY2NTI1IiB5Mj0iMTE0LjM5NzY3IiAvPjxyYWRpYWxHcmFkaWVudCB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQyNzk1IiBpZD0icmFkaWFsR3JhZGllbnQxNDgwIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgxLjc0OTA1NjVlLTgsLTAuMjM5OTQ2OTYsMS4wNTQ2NjgsMy43OTE1NDU3ZS03LC04My43MDA4LDE0Mi40NjIwMSkiIGN4PSI2MS41MTg4ODMiIGN5PSIxMzIuMjg1NzUiIGZ4PSI2MS41MTg4ODMiIGZ5PSIxMzIuMjg1NzUiIHI9IjI5LjAzNjkxMyIgLz48L2RlZnM%2BPHBhdGggc3R5bGU9ImZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDE0NzgpO2ZpbGwtb3BhY2l0eToxIiBkPSJNIDU0LjkxODc4NSw5LjE5Mjc0MjFlLTQgQyA1MC4zMzUxMzIsMC4wMjIyMTcyNyA0NS45NTc4NDYsMC40MTMxMzY5NyA0Mi4xMDYyODUsMS4wOTQ2NjkzIDMwLjc2MDA2OSwzLjA5OTE3MzEgMjguNzAwMDM2LDcuMjk0NzcxNCAyOC43MDAwMzUsMTUuMDMyMTY5IHYgMTAuMjE4NzUgaCAyNi44MTI1IHYgMy40MDYyNSBoIC0yNi44MTI1IC0xMC4wNjI1IGMgLTcuNzkyNDU5LDAgLTE0LjYxNTc1ODgsNC42ODM3MTcgLTE2Ljc0OTk5OTgsMTMuNTkzNzUgLTIuNDYxODE5OTgsMTAuMjEyOTY2IC0yLjU3MTAxNTA4LDE2LjU4NjAyMyAwLDI3LjI1IDEuOTA1OTI4Myw3LjkzNzg1MiA2LjQ1NzU0MzIsMTMuNTkzNzQ4IDE0LjI0OTk5OTgsMTMuNTkzNzUgaCA5LjIxODc1IHYgLTEyLjI1IGMgMCwtOC44NDk5MDIgNy42NTcxNDQsLTE2LjY1NjI0OCAxNi43NSwtMTYuNjU2MjUgaCAyNi43ODEyNSBjIDcuNDU0OTUxLDAgMTMuNDA2MjUzLC02LjEzODE2NCAxMy40MDYyNSwtMTMuNjI1IHYgLTI1LjUzMTI1IGMgMCwtNy4yNjYzMzg2IC02LjEyOTk4LC0xMi43MjQ3NzcxIC0xMy40MDYyNSwtMTMuOTM3NDk5NyBDIDY0LjI4MTU0OCwwLjMyNzk0Mzk3IDU5LjUwMjQzOCwtMC4wMjAzNzkwMyA1NC45MTg3ODUsOS4xOTI3NDIxZS00IFogbSAtMTQuNSw4LjIxODc1MDEyNTc5IGMgMi43Njk1NDcsMCA1LjAzMTI1LDIuMjk4NjQ1NiA1LjAzMTI1LDUuMTI0OTk5NiAtMmUtNiwyLjgxNjMzNiAtMi4yNjE3MDMsNS4wOTM3NSAtNS4wMzEyNSw1LjA5Mzc1IC0yLjc3OTQ3NiwtMWUtNiAtNS4wMzEyNSwtMi4yNzc0MTUgLTUuMDMxMjUsLTUuMDkzNzUgLTEwZS03LC0yLjgyNjM1MyAyLjI1MTc3NCwtNS4xMjQ5OTk2IDUuMDMxMjUsLTUuMTI0OTk5NiB6IiBpZD0icGF0aDE5NDgiIC8%2BPHBhdGggc3R5bGU9ImZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDE0NzUpO2ZpbGwtb3BhY2l0eToxIiBkPSJtIDg1LjYzNzUzNSwyOC42NTcxNjkgdiAxMS45MDYyNSBjIDAsOS4yMzA3NTUgLTcuODI1ODk1LDE2Ljk5OTk5OSAtMTYuNzUsMTcgaCAtMjYuNzgxMjUgYyAtNy4zMzU4MzMsMCAtMTMuNDA2MjQ5LDYuMjc4NDgzIC0xMy40MDYyNSwxMy42MjUgdiAyNS41MzEyNDcgYyAwLDcuMjY2MzQ0IDYuMzE4NTg4LDExLjU0MDMyNCAxMy40MDYyNSwxMy42MjUwMDQgOC40ODczMzEsMi40OTU2MSAxNi42MjYyMzcsMi45NDY2MyAyNi43ODEyNSwwIDYuNzUwMTU1LC0xLjk1NDM5IDEzLjQwNjI1MywtNS44ODc2MSAxMy40MDYyNSwtMTMuNjI1MDA0IFYgODYuNTAwOTE5IGggLTI2Ljc4MTI1IHYgLTMuNDA2MjUgaCAyNi43ODEyNSAxMy40MDYyNTQgYyA3Ljc5MjQ2MSwwIDEwLjY5NjI1MSwtNS40MzU0MDggMTMuNDA2MjQxLC0xMy41OTM3NSAyLjc5OTMzLC04LjM5ODg4NiAyLjY4MDIyLC0xNi40NzU3NzYgMCwtMjcuMjUgLTEuOTI1NzgsLTcuNzU3NDQxIC01LjYwMzg3LC0xMy41OTM3NSAtMTMuNDA2MjQxLC0xMy41OTM3NSB6IG0gLTE1LjA2MjUsNjQuNjU2MjUgYyAyLjc3OTQ3OCwzZS02IDUuMDMxMjUsMi4yNzc0MTcgNS4wMzEyNSw1LjA5Mzc0NyAtMmUtNiwyLjgyNjM1NCAtMi4yNTE3NzUsNS4xMjUwMDQgLTUuMDMxMjUsNS4xMjUwMDQgLTIuNzY5NTUsMCAtNS4wMzEyNSwtMi4yOTg2NSAtNS4wMzEyNSwtNS4xMjUwMDQgMmUtNiwtMi44MTYzMyAyLjI2MTY5NywtNS4wOTM3NDcgNS4wMzEyNSwtNS4wOTM3NDcgeiIgaWQ9InBhdGgxOTUwIiAvPjxlbGxpcHNlIHN0eWxlPSJvcGFjaXR5OjAuNDQzODI7ZmlsbDp1cmwoI3JhZGlhbEdyYWRpZW50MTQ4MCk7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjE1LjQxNzQ7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLW9wYWNpdHk6MSIgaWQ9InBhdGgxODk0IiBjeD0iNTUuODE2NzYxIiBjeT0iMTI3LjcwMDc5IiByeD0iMzUuOTMwOTc3IiByeT0iNi45NjczMTE5IiAvPjwvc3ZnPg%3D%3D)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTQ3LjYxNyA5OC4xMmMtMTkuMTkyIDUuMzYyIDExLjY3NyAxNi40MzkgMzYuMTE1IDUuOTY5LTQuMDAzLTEuNTU2LTYuODc0LTMuMzUxLTYuODc0LTMuMzUxLTEwLjg5NyAyLjA2LTE1Ljk1MiAyLjIyMi0yNS44NDQgMS4wOTItOC4xNjQtLjkzNS0zLjM5Ny0zLjcxLTMuMzk3LTMuNzF6bTMzLjE4OS0xMC40NmMtMTQuNDQ0IDIuNzc5LTIyLjc4NyAyLjY5LTMzLjM1NCAxLjYtOC4xNzEtLjg0NS0yLjgyMi00LjgwNS0yLjgyMi00LjgwNS0yMS4xMzcgNy4wMTYgMTEuNzY3IDE0Ljk3NyA0MS4zMDkgNi4zMzYtMy4xNC0xLjEwNi01LjEzMy0zLjEzMS01LjEzMy0zLjEzMXptMTEuMzE5LTYwLjU3NWMuMDAxIDAtNDIuNzMxIDEwLjY2OS0yMi4zMjMgMzQuMTg3IDYuMDI0IDYuOTM1LTEuNTggMTMuMTctMS41OCAxMy4xN3MxNS4yODktNy44OTEgOC4yNjktMTcuNzc3Yy02LjU1OS05LjIxNS0xMS41ODctMTMuNzkzIDE1LjYzNC0yOS41OHptOS45OTggODEuMTQ0czMuNTI5IDIuOTEtMy44ODggNS4xNTljLTE0LjEwMiA0LjI3Mi01OC43MDYgNS41Ni03MS4wOTUuMTcxLTQuNDUtMS45MzggMy44OTktNC42MjUgNi41MjYtNS4xOTIgMi43MzktLjU5MyA0LjMwMy0uNDg1IDQuMzAzLS40ODUtNC45NTItMy40ODctMzIuMDEzIDYuODUtMTMuNzQyIDkuODE1IDQ5LjgyMSA4LjA3NiA5MC44MTctMy42MzcgNzcuODk2LTkuNDY4ek04NSA3Ny44OTZjMi4zOTUtMS42MzQgNS43MDMtMy4wNTMgNS43MDMtMy4wNTNzLTkuNDI0IDEuNjg1LTE4LjgxMyAyLjQ3NGMtMTEuNDk0Ljk2NC0yMy44MjMgMS4xNTQtMzAuMDEyLjMyNi0xNC42NTItMS45NTkgOC4wMzMtNy4zNDggOC4wMzMtNy4zNDhzLTguODEyLS41OTYtMTkuNjQ0IDQuNjQ0QzE3LjQ1NSA4MS4xMzQgNjEuOTU4IDgzLjk1OCA4NSA3Ny44OTZ6bTUuNjA5IDE1LjE0NWMtLjEwOC4yOS0uNDY4LjYxNi0uNDY4LjYxNiAzMS4yNzMtOC4yMjEgMTkuNzc1LTI4Ljk3OSA0LjgyMi0yMy43MjUtMS4zMTIuNDY0LTIgMS41NDMtMiAxLjU0M3MuODI5LS4zMzQgMi42NzgtLjcyYzcuNTU5LTEuNTc1IDE4LjM4OSAxMC4xMTktNS4wMzIgMjIuMjg2ek02NC4xODEgNzAuMDY5Yy00LjYxNC0xMC40MjktMjAuMjYtMTkuNTUzLjAwNy0zNS41NTlDODkuNDU5IDE0LjU2MyA3Ni40OTIgMS41ODcgNzYuNDkyIDEuNTg3YzUuMjMgMjAuNjA4LTE4LjQ1MSAyNi44MzMtMjYuOTk5IDM5LjY2Ny01LjgyMSA4Ljc0NSAyLjg1NyAxOC4xNDIgMTQuNjg4IDI4LjgxNXptMjcuMjc0IDUxLjc0OGMtMTkuMTg3IDMuNjEyLTQyLjg1NCAzLjE5MS01Ni44ODcuODc0IDAgMCAyLjg3NCAyLjM4IDE3LjY0NiAzLjMzMSAyMi40NzYgMS40MzcgNTctLjggNTcuODE2LTExLjQzNi4wMDEgMC0xLjU3IDQuMDMyLTE4LjU3NSA3LjIzMXoiIC8%2BPC9zdmc%2B)
 
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![Robot Control](https://img.shields.io/badge/Robot_Control-Control-DC3545?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-AI-1976D2?style=flat-square)
+![MATLAB](./assets/matlab-badge.svg)
+![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat-square&logo=markdown&logoColor=000000)
+![ROS](https://img.shields.io/badge/ROS-ffffff?style=flat-square&logo=ros&logoColor=22314E)
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-ffffff?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCI%2BPHBhdGggZD0iTTExMi44NzEgNjYuNjAyYzkuMDA0IDUuMjc3IDE1LjA1NSAxNS4wMjcgMTUuMDc0IDI2LjE5MS4wMzIgMTYuODA1LTEzLjYxNyAzMC40NTMtMzAuNDggMzAuNDgtMTYuODYzLjAzMi0zMC41NTktMTMuNTctMzAuNTktMzAuMzc1LS4wMi0xMS4xNjQgNS45OTYtMjAuOTMzIDE0Ljk4NC0yNi4yNDZsOC43NzQgMTQuNzc4Yy4yMTkuMzcuMDk0Ljg0Ny0uMjYyIDEuMDktMy4zMiAyLjI1LTUuNDk2IDYuMDQ2LTUuNDg4IDEwLjM0Ny4wMTIgNi44OTUgNS42MzMgMTIuNDc3IDEyLjU1IDEyLjQ2MSA2LjkxOS0uMDEyIDEyLjUxNi01LjYxIDEyLjUwNC0xMi41MDQtLjAwNy00LjMtMi4xOTUtOC4wOS01LjUyMy0xMC4zMjgtLjM1NS0uMjQyLS40ODQtLjcxOS0uMjY2LTEuMDl6bTAgMCIgZmlsbD0iIzEyOGRmZiIgLz48cGF0aCBkPSJNNDUuNDc3IDY2LjQyMmEzMC40OTUgMzAuNDk1IDAgMDAtMTQuOTA3LTMuODY3QzEzLjcwMyA2Mi41NTUuMDM1IDc2LjE4LjAzNSA5Mi45ODVjMCAxNi44MDQgMTMuNjY4IDMwLjQzIDMwLjUzNSAzMC40MyAxNi45NDYgMCAzMC45NS0xNC4zMzcgMzAuNTI0LTMxLjIxMkg0My45MDZjLS40NTMgMC0uODA4LjM4My0uODEyLjgzMi0uMDQzIDYuNzIzLTUuNjcyIDEyLjQzNC0xMi41MjQgMTIuNDM0LTYuOTIyIDAtMTIuNTI3LTUuNTktMTIuNTI3LTEyLjQ4NSAwLTYuODk0IDUuNjA1LTEyLjQ4NCAxMi41MjctMTIuNDg0IDEuODA5IDAgMy41MzIuMzgzIDUuMDg2IDEuMDc0LjM4My4xNjguODM2LjA0IDEuMDQ3LS4zMTZ6bTAgMCIgZmlsbD0iIzhiZGE2NyIgLz48cGF0aCBkPSJNNDcuOTQ1IDYxLjY0OGMtOC45OTItNS4yOTMtMTUuMDI3LTE1LjA1NC0xNS4wMjctMjYuMjE4QzMyLjkxOCAxOC42MjUgNDYuNTkgNSA2My40NTMgNXMzMC41MzUgMTMuNjI1IDMwLjUzNSAzMC40M2MwIDExLjE2NC02LjAzNSAyMC45MjUtMTUuMDI3IDI2LjIxOEw3MC4yMSA0Ni44NmMtLjIxOS0uMzctLjA5NC0uODQ3LjI2Ni0xLjA5IDMuMzItMi4yNDYgNS41MDMtNi4wMzkgNS41MDMtMTAuMzQgMC02Ljg5NC01LjYwOS0xMi40ODQtMTIuNTI3LTEyLjQ4NC02LjkxOCAwLTEyLjUyNyA1LjU5LTEyLjUyNyAxMi40ODUgMCA0LjMgMi4xODMgOC4wOTMgNS41MDQgMTAuMzQuMzYuMjQyLjQ4NC43MTguMjY1IDEuMDl6bTAgMCIgZmlsbD0iI2ZmMmE0NCIgLz48L3N2Zz4%3D)
+![NumPy](https://img.shields.io/badge/NumPy-ffffff?style=flat-square&logo=numpy&logoColor=013243)
+![PyTorch](https://img.shields.io/badge/PyTorch-ffffff?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=flat-square&logo=pandas&logoColor=150458)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ffffff?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-ffffff?style=flat-square&logo=keras&logoColor=D00000)
+![YOLO](https://img.shields.io/badge/YOLO-ffffff?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTE0IiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDExNCAxMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzEyNzM3XzQ5Mzg4KSI%2BPG1hc2sgaWQ9Im1hc2swXzEyNzM3XzQ5Mzg4IiBzdHlsZT0ibWFzay10eXBlOmx1bWluYW5jZSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iLTEiIHk9IjIiIHdpZHRoPSIxMTYiIGhlaWdodD0iMTE4Ij48cGF0aCBkPSJNMTE0LjE3OSAyLjc1NzgxSC0wLjE5NTMxMlYxMTkuOTY5SDExNC4xNzlWMi43NTc4MVoiIGZpbGw9IndoaXRlIiAvPjwvbWFzaz48ZyBtYXNrPSJ1cmwoI21hc2swXzEyNzM3XzQ5Mzg4KSI%2BPHBhdGggZD0iTTI2LjU4IDIuNzU3ODFDMTEuODE1OSAyLjc1NzgxIC0wLjE5NTMxMiAxNC44MzIxIC0wLjE5NTMxMiAyOS42NzM0Qy0wLjE5NTMxMiA0NC41MTM3IDExLjgxNTkgNTYuNTg4MyAyNi41OCA1Ni41ODgzQzQxLjM0NDMgNTYuNTg4MyA1My4zNTU1IDQ0LjUxMzcgNTMuMzU1NSAyOS42NzM0QzUzLjM1NTUgMTQuODMyMSA0MS4zNDQzIDIuNzU3ODEgMjYuNTggMi43NTc4MVoiIGZpbGw9IiMwQjIzQTkiIC8%2BPHBhdGggZD0iTTU2Ljg3NTEgODcuMDQxOUM0Ny4yMzAzIDg3LjA0MTkgMzguMTE3IDg0LjU4NzEgMzAuMTE3MiA4MC4yNzcxVjkyLjQ4ODNDMzAuMTE3MiAxMDcuMzA3IDQxLjg4OCAxMTkuNjAyIDU2LjYyODYgMTE5Ljc0NUM3MS41MTM3IDExOS44OSA4My42Njg3IDEwNy43NiA4My42Njg3IDkyLjgzMTVWODAuMjY1NkM3NS42NjEzIDg0LjU4NjQgNjYuNTMzMiA4Ny4wNDE5IDU2Ljg3NTEgODcuMDQxOVoiIGZpbGw9IiMwQjIzQTkiIC8%2BPHBhdGggZD0iTTYwLjM4IDI5LjY3OTZDNjAuMzUyMiA0OC40MDMyIDQ1LjIzMTMgNjMuNjA5IDI2LjUzODMgNjMuNjU0OEMxOS4zMjc0IDYzLjY3MzYgMTIuNTYwOSA2MS40MTcgNy4wMzkwNiA1Ny40Nzc2QzE2LjgyNTkgNzUuMDYzNyAzNS41MDA4IDg3LjA1NDQgNTYuODU0NSA4Ny4wMTI4Qzg3Ljg3NDEgODcuMDM3NSAxMTMuNDcgNjEuNjUwNSAxMTMuOTg3IDMwLjUxNEwxMTMuOTE0IDMwLjQ0NzRDMTEzLjk0NCAyOS42NzE2IDExMy45MDYgMzAuMzA3MSAxMTMuOTQ0IDI5LjY3MTZDMTEzLjk1OSAxNC44MTk4IDEwMS45MjkgMi42OTg0NiA4Ny4yMjgyIDIuNzUwMTZDNzIuMzg3MSAyLjgwOTA1IDYwLjM5NDggMTQuODI3NiA2MC4zOCAyOS42Nzk2WiIgZmlsbD0idXJsKCNwYWludDBfbGluZWFyXzEyNzM3XzQ5Mzg4KSIgLz48L2c%2BPC9nPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhcl8xMjczN180OTM4OCIgeDE9IjMyLjE5MTciIHkxPSI4Ni4wNjA3IiB4Mj0iOTguODM4MSIgeTI9IjEyLjYxNTciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMDlEQkYwIiAvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBCMjNBOSIgLz48L2xpbmVhckdyYWRpZW50PjxjbGlwUGF0aCBpZD0iY2xpcDBfMTI3MzdfNDkzODgiPjxyZWN0IHdpZHRoPSIxMTQiIGhlaWdodD0iMTIwIiBmaWxsPSJ3aGl0ZSIgLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4%3D)
+
+![STM32](https://img.shields.io/badge/STM32-FFD200?style=flat-square&logo=stmicroelectronics&logoColor=03234B)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 [**官网(Website) »**](https://ccu-robotics-association.github.io/) |  [**GitHub 主页 »**](https://github.com/CCU-Robotics-Association) | [**提交指南(Commit) »** ](CONTRIBUTING.md)
 
@@ -54,53 +47,68 @@ CCU 机器人协会 · 2026 —— Future
 
 </div>
 
+---
 
-## About CRA
+## <img src="./assets/icons/bot.svg" width="22" height="22" alt=""> About CRA | 关于我们
 
-***CRA*** 是面向长春大学，以计算机科学与技术学院为主，多学院联合的致力于机器人竞赛的协会组织。
+***CRA*** 是面向长春大学、以计算机科学与技术学院为主、多学院联合的机器人竞赛协会
 
-这里是 ***CRA*** 的 ***GitHub*** 开源工程社区，用于整理和分享：
+这里是协会的 ***GitHub*** 开源工程社区，用于整理和分享协会资料、技术教程与竞赛项目
 
-* **协会资料** —— 机器人协会内部资料
-* **技术教程** —— 基础的技术教程
-* **算法实现** —— 基础与进阶算法
-* **计算机视觉** —— OpenCV、YOLO 等
-* **机器人技术** —— 控制算法、集控与创新
-* **竞赛项目** —— 机器人项目与比赛成果
-
-## Start Here
+## <img src="./assets/icons/compass.svg" width="22" height="22" alt=""> Start Here | 从这里开始
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Association Website
+<img src="./assets/icons/globe.svg" width="28" height="28" alt="">
 
-协会官方网站
+### Association Website
 
-**→ [Visit Website](https://ccu-robotics-association.github.io/)**
+**协会官网**
+
+了解协会，访问网站
+
+[**Visit Website »**](https://ccu-robotics-association.github.io/)
 
 </td>
 <td width="50%" valign="top">
 
-### 📖 Contributing 
+<img src="./assets/icons/file-text.svg" width="28" height="28" alt="">
 
-提交指南及规范
+### Contributing
 
-**→ [Visit Contributing](CONTRIBUTING.md)**
+**提交指南与规范**
+
+查看提交要求
+
+[**Read the Guide »**](https://github.com/CCU-Robotics-Association/.github/blob/main/profile/CONTRIBUTING.md)
 
 </td>
 </tr>
 </table>
 
-## Contribution
+## <img src="./assets/icons/folder-open.svg" width="22" height="22" alt=""> Resources | 社区内容
 
-我们欢迎对公开项目进行：
+| 方向 | 内容 |
+| :--- | :--- |
+| <img src="./assets/icons/folder-open.svg" width="18" height="18" alt=""> **协会资料** | 协会内部资料与相关文档 |
+| <img src="./assets/icons/book-open.svg" width="18" height="18" alt=""> **技术教程** | 基础技术教程与学习资料 |
+| <img src="./assets/icons/code-xml.svg" width="18" height="18" alt=""> **算法实现** | 基础与进阶算法 |
+| <img src="./assets/icons/scan-eye.svg" width="18" height="18" alt=""> **计算机视觉** | OpenCV、YOLO 等视觉技术 |
+| <img src="./assets/icons/cpu.svg" width="18" height="18" alt=""> **机器人技术** | 控制算法、集控与创新 |
+| <img src="./assets/icons/trophy.svg" width="18" height="18" alt=""> **竞赛项目** | 机器人项目与比赛成果 |
 
-* ⭐ **Star** —— 如果这些内容对你有所帮助
-* 🍴 **Fork** —— 在现有项目基础上进行尝试
-* 🐛 **Issue** —— 提出问题或改进建议
-* 🔀 **Pull Request** —— 提交代码与内容改进
+## <img src="./assets/icons/git-pull-request.svg" width="22" height="22" alt=""> Contribution | 参与贡献
+
+欢迎参与协会的公开项目：
+
+- <img src="./assets/icons/star.svg" width="18" height="18" alt=""> **Star**：关注对你有帮助的项目
+- <img src="./assets/icons/git-fork.svg" width="18" height="18" alt=""> **Fork**：在现有项目的基础上尝试与探索
+- <img src="./assets/icons/circle-dot.svg" width="18" height="18" alt=""> **Issue**：反馈问题，提出改进建议
+- <img src="./assets/icons/git-pull-request.svg" width="18" height="18" alt=""> **Pull Request**：提交代码、文档或资料改进
+
+提交前请阅读 [Contributing · 提交指南](https://github.com/CCU-Robotics-Association/.github/blob/main/profile/CONTRIBUTING.md)
 
 ---
 
@@ -108,9 +116,9 @@ CCU 机器人协会 · 2026 —— Future
 
 ### CCU · ROBOTICS · ASSOCIATION
 
-<sub>CRA Github 社区 | CRA .github</sub>
+<sub>CRA GitHub 社区 | CRA .github</sub>
 
-[**官网(Website)**](https://ccu-robotics-association.github.io/) ·  [**GitHub 主页**](https://github.com/CCU-Robotics-Association) · [**提交指南(Commit)** ](CONTRIBUTING.md)
+[**官网(Website)**](https://ccu-robotics-association.github.io/) · [**GitHub 主页**](https://github.com/CCU-Robotics-Association) · [**提交指南(Contributing)**](https://github.com/CCU-Robotics-Association/.github/blob/main/profile/CONTRIBUTING.md)
 
 <sub>CCU Robotics Association</sub>
 
