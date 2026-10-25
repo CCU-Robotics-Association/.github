@@ -1,26 +1,22 @@
+<!--
+作者 / Author: XCrane
+-->
+
 <div align="center">
 
-<img src="assets\logo.svg" width="150">
+<a href="https://github.com/CCU-Robotics-Association">
+  <img src="https://raw.githubusercontent.com/CCU-Robotics-Association/.github/main/profile/assets/logo.svg" width="132" alt="CCU Robotics Association Logo">
+</a>
 
 # CCU Robotics Association
 
-### CCU 机器人协会 开源工程社区
+### CCU 机器人协会 · CCU Robotics Association
 
-[**官网(Website)** »](https://ccu-robotics-association.github.io/) | [**提交指南(Commit)** »](CONTRIBUTING.md)
-
-> **一  同  奋  进  前  行  ，  共  就  非  凡  之  事**
-
-</div>
-
-# CRA · CCU Robotics Association
-
-<div align="center">
-
+CCU 机器人协会 · 2026 —— Future
 
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 ![Organization](https://img.shields.io/badge/CCU-Robotics_Association-181717?style=flat-square&logo=github&logoColor=white)
 ![Area](https://img.shields.io/badge/Area-Robotics-E67E22?style=flat-square)
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -52,21 +48,27 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
+[**官网(Website) »**](https://ccu-robotics-association.github.io/) |  [**GitHub 主页 »**](https://github.com/CCU-Robotics-Association) | [**提交指南(Commit) »** ](CONTRIBUTING.md)
+
+> **一  同  奋  进  前  行  ，  共  就  非  凡  之  事**
+
 </div>
+
 
 ## About CRA
 
-CRA 是面向长春大学计算机技术、电子信息技术与机器人竞赛的协会组织。
+***CRA*** 是面向长春大学，以计算机科学与技术学院为主，多学院联合的致力于机器人竞赛的协会组织。
 
-这里是协会的 GitHub 开源工程社区，用于整理和分享：
+这里是 ***CRA*** 的 ***GitHub*** 开源工程社区，用于整理和分享：
 
-* 📚 **技术教程** —— 基础的学习资料
-* 🧠 **算法实现** —— 基础与进阶算法
-* 👁️ **计算机视觉** —— OpenCV、YOLO 等
-* ⚙️ **机器人技术** —— 控制算法、集控与创新
-* 🏆 **竞赛项目** —— 机器人项目与比赛成果
+* **协会资料** —— 机器人协会内部资料
+* **技术教程** —— 基础的技术教程
+* **算法实现** —— 基础与进阶算法
+* **计算机视觉** —— OpenCV、YOLO 等
+* **机器人技术** —— 控制算法、集控与创新
+* **竞赛项目** —— 机器人项目与比赛成果
 
-## 🚀 Start Here
+## Start Here
 
 <table>
 <tr>
@@ -74,7 +76,7 @@ CRA 是面向长春大学计算机技术、电子信息技术与机器人竞赛�
 
 ### 🌐 Association Website
 
-协会官方网站。
+协会官方网站
 
 **→ [Visit Website](https://ccu-robotics-association.github.io/)**
 
@@ -83,7 +85,7 @@ CRA 是面向长春大学计算机技术、电子信息技术与机器人竞赛�
 
 ### 📖 Contributing 
 
-提交指南及规范。
+提交指南及规范
 
 **→ [Visit Contributing](CONTRIBUTING.md)**
 
@@ -91,7 +93,7 @@ CRA 是面向长春大学计算机技术、电子信息技术与机器人竞赛�
 </tr>
 </table>
 
-## 🤝 Contribution
+## Contribution
 
 我们欢迎对公开项目进行：
 
@@ -106,8 +108,10 @@ CRA 是面向长春大学计算机技术、电子信息技术与机器人竞赛�
 
 ### CCU · ROBOTICS · ASSOCIATION
 
-<sub>CCU Robotics Association</sub>
+<sub>CRA Github 社区 | CRA .github</sub>
 
-<br><br>
+[**官网(Website)**](https://ccu-robotics-association.github.io/) ·  [**GitHub 主页**](https://github.com/CCU-Robotics-Association) · [**提交指南(Commit)** ](CONTRIBUTING.md)
+
+<sub>CCU Robotics Association</sub>
 
 </div>
